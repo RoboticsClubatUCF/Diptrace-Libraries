@@ -229,8 +229,8 @@ Teensy 4.0 and 4.1. Crazy powerful microcontrollers running 600MHz, supported by
 - LP5907 - Ultra low noise, low Iq LDO. Max 5.5V in, 250mA out. Used to cut the noise out of supplies right before sensitive analog circuits.
 - MSP430 - A few MSP430 variants, different packages in the value line and FRAM line.
 - OPA1664 - Low noise audio quad op amp
-- OPA2171 - general purpose dual op amp
-- OPA4171 - general purpose quad op amp
+- OPA2991 - general purpose dual op amp, upgraded OPA2171
+- OPA4991 - general purpose quad op amp, upgraded OPA4171
 - SN65HVD230 - 3.3V CAN tranceiver
 - SN74LV1T126 - Logic buffer with some voltage translation available
 - TCA9617B - voltage translating I2C repeater
