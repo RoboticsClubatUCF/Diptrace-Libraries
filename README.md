@@ -58,6 +58,7 @@ A repo to store our libraries of parts for diptrace
 - DMP6350S - 60V, 1.2A P-channel enhancement MOSFET
 - AP7381 - Wide input voltage, ultra low dropout, 150mA linear regulator
 - LM2903 - Dual differential comparator, open collector output
+- AS7805ADTR - 36Vin, 5V 1A out LDO
 
 ### Eaton
 - BK/1A1907-03-R - Fuse holder clips
