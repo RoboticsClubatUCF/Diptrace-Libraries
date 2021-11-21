@@ -172,6 +172,7 @@ Oops, all capacitors
 - MBRA130LT3G - 1 amp power Schottky diode
 - CAT24C256XI-T2 - 256 Kb I2C EEPROM
 - CAT811 - Voltage supervisor. Resets microcontrollers when voltage goes wierd. Many modern uCs have one built in.
+- NUP2105L - Dual line CAN bus TVS protector
 
 ### Onshore Technology
 - OSTVN02A150 - 2 position screw terminal
