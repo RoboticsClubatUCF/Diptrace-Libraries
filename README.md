@@ -113,6 +113,7 @@ A repo to store our libraries of parts for diptrace
 - 3557-2 - Fuse holder
 - 3587-10TR - Fuse holder. Used on robosub PD board
 - 5018 - Test point. Solder on a thing to give a spot for probes to clip on
+- 7691 - Vertical screw terminal, through hole. Attaches a ring or fork terminal to a PCB with a screw
 
 ### Linear Technologies
 - LTC2943 - Battery gas gauge. Counts coulombs and voltage for batteries up to 20V and a few Ah. Good for robosub LiPos. Simple programming
