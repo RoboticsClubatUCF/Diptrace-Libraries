@@ -239,6 +239,7 @@ Teensy 4.0 and 4.1. Crazy powerful microcontrollers running 600MHz, supported by
 - SN65HVD230 - 3.3V CAN tranceiver
 - SN74LV1T126 - Logic buffer with some voltage translation available
 - SN74LVC2G07 - Dual open drain buffer driver
+- SN74LVC2G34 - Dual push pull buffer driver
 - TCA9617B - voltage translating I2C repeater
 - TCAN337 - 3.3V CAN FD tranceiver with silent mode and fault output
 - TLC5947 - 24 channel, 12 bit PWM LED driver
