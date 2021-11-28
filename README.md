@@ -94,6 +94,7 @@ A repo to store our libraries of parts for diptrace
 - Jetson WiFi Antenna - A hole suitable for mounting an SMA connector for a Wifi antenna
 - Soil Capacitor - A prototype soil moisture sensor. Capacitive sensing eliminates galvanic corrosion.
 - Spark Gap - A spark gap on a PCB to help redirect high voltage spikes in the low kV range
+- ESP-01 - small cheap wifi module
 
 ### Honeywell
 - HIH6130 - SMD temperature and humidity sensor. I2C
