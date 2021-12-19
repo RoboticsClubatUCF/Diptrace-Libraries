@@ -9,6 +9,9 @@ A repo to store our libraries of parts for diptrace
 ### Amphenol
 - LH12H2220131 - Dual D-SUB 9
 
+### AMS
+- TSL25911FN - High dynamic range digital light sensor
+
 ### Analog Devices
 - ADuM1250 - I2C galvanic isolator
 - TMP36 - Analog temperature sensor
