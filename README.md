@@ -272,3 +272,4 @@ Teensy 4.0 and 4.1. Crazy powerful microcontrollers running 600MHz, supported by
 
 ### Wurth
 - 150080RS75000 - 72mW 0805 LED
+- 74477120 - 100uH, 1.53A inductor
