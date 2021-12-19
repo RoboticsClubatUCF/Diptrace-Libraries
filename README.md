@@ -137,6 +137,7 @@ A repo to store our libraries of parts for diptrace
 - MAX31790 - 6 channel PWM fan controller. Takes care of closed loop RPM, rate of change control, spin up boost, stuck fan detect, etc
 - MAX3232ECAE - RS232 tranceiver with built in charge pump
 - MAX17205 - battery gas gauge. Monitors and balances 2 or 3S lithium packs. I2C interface
+- MAX5035 - 76Vin, 1A buck converter
 
 ### Melexis
 - MLX91221KDC - Hall effect current sense IC. Up to 50A
