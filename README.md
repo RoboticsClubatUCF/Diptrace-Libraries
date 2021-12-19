@@ -171,6 +171,9 @@ Oops, all capacitors
 - UVK1E472MHD
 - UCM1E101MCL1GS
 
+### NTE
+- NTE642 - 100V, 2A schottky diode
+
 ### Omron
 - B3F-1050 - Board mount tactile switch
 
