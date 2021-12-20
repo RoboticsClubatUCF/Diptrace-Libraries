@@ -212,7 +212,7 @@ Teensy 4.0 and 4.1. Crazy powerful microcontrollers running 600MHz, supported by
 
 ### SMC Diode Solutions
 - DB157TB - 1.5 amp 1000V peak full bridge rectifier
-- DK310BTR - 3 amp 100Vr schottky rectifier
+- SK310BTR - 3 amp 100Vr schottky rectifier
 
 ### Sparkfun
 - Qwiic connector - Sparkfun's standard connector for I2C devices. Makes it easy to add misc sensors and stuff after the fact.
