@@ -61,10 +61,11 @@ A repo to store our libraries of parts for diptrace
 - MMBT2222A - SOT23 of the classic 2222 NPN transistor
 - AZ23C5V6 - Dual zener, 300mW total dissipation
 - DMP6350S - 60V, 1.2A P-channel enhancement MOSFET
-- AP7381 - Wide input voltage, ultra low dropout, 150mA linear regulator
+- AP7381 - Wide input voltage, low dropout, 150mA linear regulator
 - LM2903 - Dual differential comparator, open collector output
 - AS7805ADTR - 36Vin, 5V 1A out LDO
 - AP2138 - ultra low IQ LDO
+- AP1701 - voltage supervisor, holds part in reset when vcc is too low
 
 ### Eaton
 - BK/1A1907-03-R - Fuse holder clips
@@ -99,6 +100,7 @@ A repo to store our libraries of parts for diptrace
 - Soil Capacitor - A prototype soil moisture sensor. Capacitive sensing eliminates galvanic corrosion.
 - Spark Gap - A spark gap on a PCB to help redirect high voltage spikes in the low kV range
 - ESP-01 - small cheap wifi module
+- ESP-12F - cheap wifi module, exposes most esp8266 pins
 
 ### Honeywell
 - HIH6130 - SMD temperature and humidity sensor. I2C
@@ -218,6 +220,9 @@ Teensy 4.0 and 4.1. Crazy powerful microcontrollers running 600MHz, supported by
 ### Sparkfun
 - Qwiic connector - Sparkfun's standard connector for I2C devices. Makes it easy to add misc sensors and stuff after the fact.
 - RGB Sparkfun Encoder - Rotary quadrature encoder with RGB LEDs that light up the transparent shaft
+
+### ST micro
+- SPV1040 - single cell solar boost charger with MPPT
 
 ### Taiwan Semiconductor
 - TSM240N03CX - 30V 4A SOT23 N channel power MOSFET
