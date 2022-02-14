@@ -269,6 +269,7 @@ Teensy 4.0 and 4.1. Crazy powerful microcontrollers running 600MHz, supported by
 - TPS54531 - 28V max input, 5A output buck converter. Requires external inductor and diode
 - TPS7B6933-Q1 - 40V max input, 150mA output ultra low Iq LDO
 - TPS731 - ultra low dropout low Iq linear regulator
+- TPS76601 - Ultra low dropout ultra low Iq linear regulator
 - TXB0106 - 6 channel bidirectional voltage translator
 
 ### TTGO
