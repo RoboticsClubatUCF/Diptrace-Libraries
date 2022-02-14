@@ -263,6 +263,7 @@ Teensy 4.0 and 4.1. Crazy powerful microcontrollers running 600MHz, supported by
 - TLIN1029-Q1 - LIN tranceiver
 - TLV411X - op amp with 300mA output drive
 - TLV70433DBVR - 24V max in, 3.3V 150mA out ultra low Iq LDO
+- TMP102 - low power i2c temperature sensor
 - TPS22919 - 1 channel 1.5A power switch
 - TPS2400 - overvoltage protection controller
 - TPS54202 - 4.5 to 24V input, 2A output buck converter. Requires external inductor
