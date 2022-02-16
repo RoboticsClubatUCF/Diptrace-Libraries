@@ -285,6 +285,7 @@ Teensy 4.0 and 4.1. Crazy powerful microcontrollers running 600MHz, supported by
 - SMC5K22A - 5kW peak transient voltage suppressor
 - Si4497DY - SOIC-8 30V 36A P-channel MOSFET
 - 50WQ04FNPBF - 5.5A schottky rectifier
+- VO2223A - 1A optoisolated triac
 
 ### Wurth
 - 150080RS75000 - 72mW 0805 LED
