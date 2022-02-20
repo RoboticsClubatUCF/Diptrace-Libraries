@@ -5,6 +5,7 @@ A repo to store our libraries of parts for diptrace
 ### Adafruit
 - Huzzah 32 - ESP32 WiFi microcontroller, LiPo charger, Adafruit Feather format
 - DRV8833 - breakout for 1.2A, 2.7-10.8V stepper motor driver
+- 4667 - PIR motion detector
 
 ### Amphenol
 - LH12H2220131 - Dual D-SUB 9
