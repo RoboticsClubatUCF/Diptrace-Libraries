@@ -157,6 +157,9 @@ A repo to store our libraries of parts for diptrace
 - MCP6547 - Open drain, low power, dual comparator
 - MCP23017 - 16 bit I2C GPIO expander
 
+### MPD
+- BHAA-3 - AA battery holder
+
 ### Robotics-Misc
 - 10GaugeWirePad - A hole to solder a 10 AWG wire directly to PCB. Used with silicone fine strand
 - 16GaugeWirePad - A hole to solder a 16 AWG wire directly to a PCB.
