@@ -35,6 +35,7 @@ A repo to store our libraries of parts for diptrace
 - SR1210A - Inductor
 - 3306F - PCB mount potentiometer
 - 3386F - PCB mount potentiometer with finger dial
+- MOV-14D561K - 350V MOV
 
 ### C&K
 - SD04H1SB - SMD 4 gang switch
