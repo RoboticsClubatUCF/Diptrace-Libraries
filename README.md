@@ -103,6 +103,7 @@ A repo to store our libraries of parts for diptrace
 - Spark Gap - A spark gap on a PCB to help redirect high voltage spikes in the low kV range
 - ESP-01 - small cheap wifi module
 - ESP-12F - cheap wifi module, exposes most esp8266 pins
+- LS05-13BxxR3 - Mains to DC power supply, 3.3-5W isolated
 
 ### Honeywell
 - HIH6130 - SMD temperature and humidity sensor. I2C
