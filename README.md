@@ -24,6 +24,9 @@ A repo to store our libraries of parts for diptrace
 - BZ12GA124ZAB - 16V max, 120mF supercapacitor
 - BZ019A333ZSB - 9V max, 100mF supercapacitor
 
+### Bel Fuse
+- 0697H2000-01 - 350VAC Slow Blow through hole fuse
+
 ### Bosch
 - Generic BME280 breakout, from amazon or whatever
 
@@ -148,6 +151,9 @@ A repo to store our libraries of parts for diptrace
 - MAX3232ECAE - RS232 tranceiver with built in charge pump
 - MAX17205 - battery gas gauge. Monitors and balances 2 or 3S lithium packs. I2C interface
 - MAX5035 - 76Vin, 1A buck converter
+
+### Mean Well
+- IRM-02 - 2W Encapsulated AC/DC Isolated Power Supply
 
 ### Melexis
 - MLX91221KDC - Hall effect current sense IC. Up to 50A
