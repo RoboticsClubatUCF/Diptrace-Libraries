@@ -245,6 +245,7 @@ Teensy 4.0 and 4.1. Crazy powerful microcontrollers running 600MHz, supported by
 
 ### TDK
 - CLF7045NIT - Power inductor
+- SLF6028 - Power inductor
 
 ### TE Connectivity
 - RTD14005 - 16A relay, 5V coil, SPDT
