@@ -16,6 +16,7 @@ A repo to store our libraries of parts for diptrace
 ### Analog Devices
 - ADuM1250 - I2C galvanic isolator
 - TMP36 - Analog temperature sensor
+- ADuM4195-1 - Isolated Amplifier with Fixed Gain and Single-Ended Output
 
 ### Atmel
 - ATtiny4313 - microcontroller
