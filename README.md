@@ -76,6 +76,7 @@ A repo to store our libraries of parts for diptrace
 
 ### Eaton
 - BK/1A1907-03-R - Fuse holder clips
+- CTX-02-15835 - Push pull transformer
 
 ### E-Switch
 - EG1218 - Board mount SPDT slide switch
