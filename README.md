@@ -237,6 +237,7 @@ Teensy 4.0 and 4.1. Crazy powerful microcontrollers running 600MHz, supported by
 
 ### ST micro
 - SPV1040 - single cell solar boost charger with MPPT
+- LD1085D2T33R - 3.3V LDO
 
 ### Taiwan Semiconductor
 - TSM240N03CX - 30V 4A SOT23 N channel power MOSFET
