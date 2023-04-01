@@ -60,6 +60,7 @@ A repo to store our libraries of parts for diptrace
 - PJ-202BH - Barrel jack power connector, with switched pin
 - TB003-500 - Screw terminals
 - P7805-2000-S - 5V switching regulator module
+- sj-352x-smt - Stereo phone jack
 
 ### Dialight
 - 5530321F - Dual right angle indicator LED
