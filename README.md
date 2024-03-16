@@ -156,6 +156,7 @@ A repo to store our libraries of parts for diptrace
 - MAX3232ECAE - RS232 tranceiver with built in charge pump
 - MAX17205 - battery gas gauge. Monitors and balances 2 or 3S lithium packs. I2C interface
 - MAX5035 - 76Vin, 1A buck converter
+- MAX31855 - K type thermocouple ADC
 
 ### Mean Well
 - IRM-02 - 2W Encapsulated AC/DC Isolated Power Supply
