@@ -127,6 +127,7 @@ A repo to store our libraries of parts for diptrace
 
 ### Kemet
 - EC2-3TNU - Dual coil latching signal relay. 3V 46mA coil, 220V 2A contacts
+- EC2-3NU - Non-latching signal relay. 3V 46mA coil, 220V 2A contacts
 
 ### Keystone
 - 3557-2 - Fuse holder
