@@ -140,6 +140,7 @@ A repo to store our libraries of parts for diptrace
 - LTC4316 - I2C address translator. Automatically isolates stuck bus faults.
 - LTC4365 - Over, under, and reverse voltage power supply protector. Needs external MOSFETs
 - LT8304 - No-opto, isolated, flyback converter. Use LT8304-1 for HV
+- LTC3873-5 - Switching converter controller, 5V in
 
 ### Lite-On
 - C19 - 50mW SMD LED. Tiny
