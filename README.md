@@ -160,6 +160,9 @@ A repo to store our libraries of parts for diptrace
 - MAX5035 - 76Vin, 1A buck converter
 - MAX31855 - K type thermocouple ADC
 
+### MCC
+- DFLZ30-TP - 1 watt, SOD123 zener diode
+
 ### Mean Well
 - IRM-02 - 2W Encapsulated AC/DC Isolated Power Supply
 
@@ -245,6 +248,7 @@ Teensy 4.0 and 4.1. Crazy powerful microcontrollers running 600MHz, supported by
 ### ST micro
 - SPV1040 - single cell solar boost charger with MPPT
 - LD1085D2T33R - 3.3V LDO
+- STD5N20L - 200V 5A N channel MOSFET
 
 ### Taiwan Semiconductor
 - TSM240N03CX - 30V 4A SOT23 N channel power MOSFET
@@ -253,6 +257,7 @@ Teensy 4.0 and 4.1. Crazy powerful microcontrollers running 600MHz, supported by
 ### TDK
 - CLF7045NIT - Power inductor
 - SLF6028 - Power inductor
+- B65545 - P14x8 transformer core
 
 ### TE Connectivity
 - RTD14005 - 16A relay, 5V coil, SPDT
